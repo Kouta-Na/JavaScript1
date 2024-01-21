@@ -1,0 +1,11 @@
+.time{
+  position: relative;
+  margin-bottom: 18.72px;
+  padding-left: 20px;
+  font-weight: 700;
+}
+
+#hour,#minutes,#seconds,#m-seconds{
+  font-size: 20px;
+}
+
